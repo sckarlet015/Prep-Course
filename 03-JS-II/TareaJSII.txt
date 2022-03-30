@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`:
+Es como indicar las acciones que se realizaran a un objeto (algo) y cunto tiempo se realizara,
+por ejemplo "el niño puede ver la tele de la 1 a 3 de la tarde".
+* `&&`:
+Significa algo adicional, una condicion más que se debe cumplir, tomando al niño viendo tele, este podria hacer si ya hizo su tarea.
+"el niño puede ver la tele de la 1 a 3 de la tarde && si ya termino su tarea"
+`||`:
+En este caso se significa ó, esto es que podria ser una condión ó otra para realzair la actividad, 
+solo podria ser una de la condiciones, por ejemplo,
+"el niño puede ver la tele de la 1 a 3 de la tarde || / ó de 3 a 5 de la tarde"
+`!`:
+Se utiliza para comparar algo y al mismo tiempo se espera que sea diferente.

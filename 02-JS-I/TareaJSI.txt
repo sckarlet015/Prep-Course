@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables:
+ Son datos que pueden cambiar varias veces a lo largo del tiempo, acciones o sircunstancias, 
+ pero le ponemos un nombre para saber lo que representan. Por ejemplo en una alcancia guardamos monedas
+ y aun que el nombre es "alcancia" su valor cambia cunado introducimos y sacamos una moneda. 
+ * Strings:
+ Es un conjunto de letras, numero y simbolos que puedes agrupar dentro de un nombre especifico para recordar
+ lo que representa ese conjunto.
+ * Funciones (argumentos, `return`):
+ Las funciones son actividades a realizar, como cocinar o lavar, los argumentos serial los objetos a los que
+ se les puede apliacar la funcion, por ejemplo conimar un pollo, la accion es "cocinar" y el argumento es el "pollo",
+ de esta forma tendremos un resultado "return" que seria un pollo asado.
+ * Declaraciones `if`:
+ Seria como hacer una pregunta para verificar algun dato o informacion antes de poder ejecutar una accion, 
+ como por ejemplo saber si el agua esta caliente antes de entrar a la ducha, si esta caliente te puedes bañar,
+ si no lo esta esperas a que esta se caliente. 
+ * Valores booleanos (`true`, `false`):
+ true es el significado positivo a alguna pregunta y false es el significado negativo, (si/no).
