@@ -1,0 +1,15 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Es la expresion que se le da a la intencion de describir algo de la vida real describiendo
+    caracteristicas relevantes, las cuales seran sus propiedades.
+	* Propiedades: Son las caracteristicas de un objeto como los son los pies, las manos o la edad de una persona.
+	* Métodos: Son acciones que se pueden realizar con las propiedades de un objeto como los seria "caminar"
+    con los "pies" para una perosna.
+	* Bucle `for…in`: Es la forma de expresar cuantas veces se repetira una accion.
+	* Notación de puntos vs notación de corchetes: En el caso de la notacion por cochetes "[]", lo que tendremos
+    dentro del corchete sera el indice o numero de orden de una array (lista) para identificarlo o acceder a él,
+    en el caso de usarlo con un objeto, lo que tendriamos dentro del corchete "[]" seria el nombre de la
+    caracteristica (propiedades) para acceder a la misma. Con la notacion de puntos en un objeto, despues del punto pondriamos
+    el nombre de la caracteristica para acceder a ella y omitiriamos los corchetes. En cambio con una array (lista)
+    no funcionaria porner un punto y despues el numero de orden de algun dato de la lista a la que quisieramos
+    acceder.
