@@ -1,0 +1,5 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`: Son las definiciones y/o caracteristicas que tendra un grupo de objetos en comun.
+* _Constructors_ (de Clases): Aqui se declaran las definiciones relevantes o las que queremos recordad u otilizar
+en el futuro, para que cada objeto que se defina con un mismo prototypo las tenga.
