@@ -1,0 +1,31 @@
+h1 
+{
+    color: darkblue;
+}
+img
+{
+    width: 400px;
+}
+#thirdDiv
+{
+    background-color: darkorange;
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border: 10px solid red;
+}
+
+#spanId
+{
+    font-size: 18px;
+    margin: 50px;
+}
+body
+{
+    background-image: url("https://thumbs.gfycat.com/MiserableInsubstantialCollie-size_restricted.gif");
+    align-content: center;
+}
+div
+{
+    text-align: center;
+}
