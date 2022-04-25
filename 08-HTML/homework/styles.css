@@ -1,6 +1,23 @@
+html
+{
+    background-color: #141B41;
+}
+body
+{
+    display: flex;
+    justify-content: left;
+}
 h1 
 {
-    color: darkblue;
+    color: #6F9CEB;
+}
+h3
+{
+    color: #306BAC;
+}
+h4
+{
+    color: #306BAC;
 }
 img
 {
@@ -8,17 +25,18 @@ img
 }
 #thirdDiv
 {
-    background-color: darkorange;
+    background-color: #918EF4;
     width: 500px;
     height: 600px;
     padding: 50px;
-    border: 10px solid red;
+    border: 10px solid #98B9F2;
 }
 
 #spanId
 {
     font-size: 18px;
     margin: 50px;
+    color: #6F9CEB
 }
 body
 {
@@ -28,4 +46,8 @@ body
 div
 {
     text-align: center;
+}
+a
+{
+color: #98B9F2;
 }
