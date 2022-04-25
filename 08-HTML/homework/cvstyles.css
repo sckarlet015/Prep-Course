@@ -1,0 +1,46 @@
+html
+{
+    background-color: #A67DB8;
+}
+#titulo
+{
+text-align: center;
+color: #395756;
+}
+div
+{
+    background-color: #7261A3;
+    border: 5px solid #4F5D75;
+    display: flex;
+    justify-content: left;
+}
+h3
+{
+    color: #1B3022;
+}
+h2
+{
+    color: #1B3022;
+}
+a
+{
+    color: purple;
+}
+#foto
+{
+    width: 200px;
+}
+.icono
+{
+    width: 20px;
+}
+.imagen
+{
+    width: 150px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#frase
+{
+    text-align: center;
+}
